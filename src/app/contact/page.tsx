@@ -70,7 +70,7 @@ export default function Contact() {
             </a>
           </div>
         </div>
-      </MotionDiv>
+      </div>
     </div>
   )
 } 
